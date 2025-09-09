@@ -4,3 +4,4 @@ build/
 *.pyc
 .env
 .pytest_cache/
+coverage/
